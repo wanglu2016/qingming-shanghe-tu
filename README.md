@@ -10,6 +10,12 @@
 
 不用登录，不用安装。电脑和手机的浏览器都能打开，需要支持 WebGL。
 
+## 项目视频
+
+[**观看完整视频（92 秒）**](https://wanglu2016.github.io/qingming-shanghe-tu/video/qingming-shanghe-tu.mp4) · [GitHub 视频文件](video/qingming-shanghe-tu.mp4) · [下载 MP4](https://github.com/wanglu2016/qingming-shanghe-tu/raw/refs/heads/main/video/qingming-shanghe-tu.mp4)
+
+1280×720，配有王路音色解说和同步中文字幕。画面使用本项目三维场景离屏渲染。
+
 ![虹桥](docs/screenshot-bridge.jpg)
 
 ![俯瞰汴河](docs/screenshot-fly.jpg)
